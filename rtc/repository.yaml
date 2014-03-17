@@ -1,0 +1,4 @@
+ImageViewer: {description: '', git: 'https://github.com/sugarsweetrobotics/ImageViewer.git',
+  hash: b020bff124cef6f129a6a1b8b4e26a9ab4baf219}
+WebCamera: {description: '', git: 'https://github.com/sugarsweetrobotics/WebCamera.git',
+  hash: 0e7d443bf0c398c284f69deddb4dfe777daaf28a}
